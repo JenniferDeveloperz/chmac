@@ -33,23 +33,4 @@ git clone https://github.com/JenniferDeveloperz/chmac.git
 cd chmac
 
 Make sure you have Python 3 installed:
-
 python3 --version
-Usage
-List available network interfaces
-python3 mac_changer.py --list
-Change MAC address (random)
-Linux / macOS:
-sudo python3 mac_changer.py -i eth0 -r
-Windows (PowerShell / CMD):
-python mac_changer.py -i "Wi-Fi" -r
-Set specific MAC address
-Linux / macOS:
-sudo python3 mac_changer.py -i eth0 -m AA:BB:CC:DD:EE:FF
-Windows:
-python mac_changer.py -i "Wi-Fi" -m AA:BB:CC:DD:EE:FF
-
-Windows
-
-```bash
-python mac_changer.py -i "Wi-Fi" -m AA:BB:CC:DD:EE:FF

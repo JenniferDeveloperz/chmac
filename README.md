@@ -30,7 +30,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/JenniferDeveloperz/chmac.git
+git clone https://github.com/JenniferDeveloperz/chmac
 cd chmac
 
 ```

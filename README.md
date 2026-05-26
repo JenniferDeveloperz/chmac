@@ -43,7 +43,7 @@ python3 --version
 
 ```
 
-List available network interfaces:
+## List available network interfaces:
 
 ```bash
 
@@ -51,7 +51,7 @@ python3 chmac.py --list
 
 ```
 
-Set specific MAC address:
+## Set specific MAC address:
 
 Linux / macOS:
 
@@ -69,7 +69,7 @@ python chmac.py -i "Wi-Fi" -m AA:BB:CC:DD:EE:FF
 
 ```
 
-Change MAC address (random)
+## Change MAC address (random)
 
 Linux / macOS:
 
